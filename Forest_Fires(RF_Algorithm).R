@@ -89,4 +89,4 @@ ab
 #Calculating the final accuracy
 round(mean(as.numeric(ab))*100,2)
 
-#The accuracy increases but only slightly, but the model is a good model anyway with more than 90% accuracy consistently
+#The accuracy increases but only slightly, but this is a good model anyway with an accuracy of more than 90% consistently
